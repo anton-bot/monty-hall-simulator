@@ -17,7 +17,7 @@ For a more convincing demonstration, you can play a game with 100 doors, when Mo
   "iterations": 1000,
   "wins": {
     "kept": 333,
-    "switched": 667,
+    "switched": 667
   }
 }
 ```
