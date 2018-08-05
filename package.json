@@ -1,0 +1,22 @@
+{
+  "name": "monty-hall-simulator",
+  "version": "1.0.0",
+  "description": "Simulates the Monty Hall Problem over a given number of iterations, with an arbitrary number of doors.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": "https://github.com/catcher-in-the-try/monty-hall-simulator.git",
+  "keywords": [
+    "monty-hall",
+    "monty",
+    "hall",
+    "monty-hall-problem",
+    "random"
+  ],
+  "author": "Anton Ivanov <anton@ivanov.hk>",
+  "license": "Unlicense",
+  "dependencies": {
+    "random-number-csprng": "^1.0.2"
+  }
+}
