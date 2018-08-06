@@ -90,7 +90,7 @@ async function play(playerSwitches, numDoors) {
   }
 
   // True if car:
-  return doors[playerBet] ? 1 : 0;
+  return doors[playerBet];
 }
 
 module.exports = montyHall;
